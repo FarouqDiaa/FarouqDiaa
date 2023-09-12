@@ -1,6 +1,6 @@
 ### <h1 align="center">Farouq Diaa Here 👋<h1>
 <h2 align="center">Computer Engineering Undergraduate | Cairo University</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251)
+<a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue></a>
 
 ### About Me
 
