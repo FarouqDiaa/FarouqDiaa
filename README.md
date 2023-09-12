@@ -1,6 +1,6 @@
 ### <h1 align="center">Farouq Diaa Here 👋<h1>
 <h2 align="center">Computer Engineering Undergraduate | Cairo University</h2>
-<h3>[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/farouq-diaa-eldin-9b8063251)</h3>
+<h3>[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)(www.linkedin.com/in/farouq-diaa-eldin-9b8063251)</h3>
 ### About Me
 
 I am a passionate computer engineering undergraduate student at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, and Web development.
