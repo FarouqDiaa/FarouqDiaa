@@ -1,4 +1,4 @@
-<img width ="300" height="200" align="right" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+<img width ="275" height="175" align="right" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 <h1 align="center">Farouq Diaa Here 👋<h1>
 <h2 align="center">Junior Computer Engineer | Cairo University</h2>
 <p align="center">
@@ -36,3 +36,14 @@ I am a passionate junior computer engineer at Cairo University, specializing in 
 Feel free to connect with me on LinkedIn or reach out via email: [farouqdiaaeldin@gmail.com].
 
 I am open to collaboration and always eager to learn and explore new opportunities in the field of computer engineering.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=visual-studio)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
