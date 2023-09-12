@@ -1,10 +1,11 @@
 ### <h1 align="center">Farouq Diaa Here 👋<h1>
-<h2 align="center">Junior Computer Engineer | Cairo University</h2>
+### <h2 align="center">Junior Computer Engineer | Cairo University</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="Connect">
   </a>
 </p>
+
 ### About Me
 
 I am a passionate junior computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, and Web development.
@@ -13,7 +14,7 @@ I am a passionate junior computer engineer at Cairo University, specializing in 
 
 - I’m currently learning *Python*
 - I’m currently working on *Fullstack Web Project*
-
+<hr>
 - ### Skills
 
 - **Linux Administration**: Linux system administration, including server setup, maintenance, and troubleshooting.
