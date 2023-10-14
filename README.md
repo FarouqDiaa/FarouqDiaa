@@ -14,7 +14,7 @@ I am a passionate junior computer engineer at Cairo University, specializing in 
 ---
 
 - 💻 I’m currently learning *Python*
-- 📱 I’m currently working on *Fullstack Web Project*
+- 📱 I’m currently working on *Database Projects*
 ---
 ### Skills
 
