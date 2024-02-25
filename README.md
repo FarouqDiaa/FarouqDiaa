@@ -9,12 +9,12 @@
 
 ### About Me
 
-I am a passionate junior computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, and Web development.
+I am a passionate junior computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, Software Engineering, and Web development.
 
 ---
 
-- 💻 I’m currently learning *Python*
-- 📱 I’m currently working on *Database Projects*
+- 💻 I’m currently learning *Python* and *Node.js*
+- 📱 I’m currently working on *Software BE Project*
 ---
 ### Skills
 
