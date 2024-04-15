@@ -9,7 +9,7 @@
 
 ### About Me
 
-I am a passionate junior computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, Software Engineering, and Web development.
+I am a passionate junior computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, Software Engineering, and Back end development.
 
 ---
 
@@ -29,6 +29,9 @@ I am a passionate junior computer engineer at Cairo University, specializing in 
 - **STL**: Skilled in utilizing the C++ Standard Template Library (STL) to enhance code reusability.
 
 - **Web Development**: Knowledgeable in web development technologies such as Java, CSS, HTML, PHP, and SQL.
+
+- **Back End Development**: Knowledgeable in Node js, Express, MongoDB and API documentation.
+
 
 ---
 ### Contact Me
