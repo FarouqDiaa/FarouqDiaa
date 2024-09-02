@@ -1,6 +1,6 @@
 <img width ="275" height="175" align="right" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 <h1 align="center">Farouq Diaa Here 👋<h1>
-<h2 align="center">Junior Computer Engineer | Cairo University</h2>
+<h2 align="center">Senior-1 Computer Engineer | Cairo University</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="Connect">
@@ -9,12 +9,12 @@
 
 ### About Me
 
-I am a passionate junior computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, Software Engineering, and Back end development.
+I am a passionate computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, Software Engineering, and Back end development.
 
 ---
 
-- 💻 I’m currently learning *Python* and *Node.js*
-- 📱 I’m currently working on *Software BE Project*
+- 💻 I’m currently learning *.Net Core* and *Node.js*
+- 📱 I’m currently working on *LDC BE Project*
 ---
 ### Skills
 
