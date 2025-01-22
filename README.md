@@ -9,12 +9,8 @@
 
 ### About Me
 
-I am a passionate computer engineer at Cairo University, specializing in various fields such as Linux administration, shell scripting, C++ programming, Software Engineering, and Back end development.
+I am a passionate computer engineer at Cairo University, specializing in various fields such as Linux administration, BackEnd Development, 
 
----
-
-- 💻 I’m currently learning *.Net Core* and *Node.js*
-- 📱 I’m currently working on *LDC BE Project*
 ---
 ### Skills
 
@@ -41,7 +37,6 @@ Feel free to connect with me on LinkedIn or reach out via email: [farouqdiaaeldi
 I am open to collaboration and always eager to learn and explore new opportunities in the field of computer engineering.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=visual-studio)
