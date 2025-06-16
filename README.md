@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
-<h2 align="center">Senior-1 Computer Engineer | Cairo University</h2>
+<h2 align="center">Senior-2 Computer Engineer | Cairo University</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
