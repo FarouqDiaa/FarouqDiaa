@@ -1,6 +1,5 @@
-# Hi, I'm Farouq Diaa 👋
-
-**Software Engineer | Cairo University**
+<h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
+<h2 align="center">Software Engineer | Cairo University</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
@@ -13,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
 I'm a passionate **Software Engineer** with hands-on experience in backend development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
 
@@ -65,10 +64,6 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 ---
 
 ## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
