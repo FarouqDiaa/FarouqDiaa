@@ -49,7 +49,7 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 - **SQL Databases**: MySQL, PostgreSQL
 - **NoSQL**: MongoDB
 - **Indexing & Optimization**: FAISS, KD-trees, Query Optimization
-- **Cloud**: Huawei Cloud (Certified Developer)
+- **Cloud**: Huawei Cloud, AWS
 
 ### **Tools & Technologies**
 <p>
@@ -63,10 +63,10 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 
 ## 📚 Current Focus
 
-- 🔭 **Building**: Scalable backend systems and APIs
-- 🌱 **Learning**: Advanced cloud-native architectures and distributed systems
-- 👯 **Collaborating**: Open to backend development projects and internships
-- 🎯 **Goal**: Contributing to impactful software solutions
+-  **Building**: Scalable backend systems and APIs
+-  **Learning**: Advanced cloud-native architectures and distributed systems
+-  **Collaborating**: Open to backend development projects and internships
+-  **Goal**: Contributing to impactful software solutions
 
 ---
 
