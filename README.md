@@ -16,7 +16,7 @@
 
 I'm a passionate **Software Engineer** with hands-on experience in backend development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
 
-🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, and Smartec Systems  
+🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, GOE, and Smartec Systems  
 🔹 **Focus Areas**: Clean Architecture, API Development, Database Optimization  
 🔹 **Current Learning**: Cloud-Native Development, Microservices Architecture  
 🔹 **Seeking**: Software Engineering opportunities and challenging projects  
