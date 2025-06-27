@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
-<h2 align="center">Senior-2 Computer Engineer | Cairo University</h2>
+# Hi, I'm Farouq Diaa 👋
+
+**Software Engineer | Cairo University**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
@@ -12,60 +13,92 @@
 
 ---
 
-## **👨‍💻 About Me**
-🔹 Passionate **Backend Developer & Software Engineer** with a strong focus on **scalability, clean architecture, and efficient algorithms**.  
-🔹 Specializing in **.NET Core, Node.js, databases, and API development**.  
-🔹 Enthusiastic about **distributed systems, indexing techniques, and optimization**.  
-🔹 Open to **collaborations, internships, and exciting projects**!  
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** with hands-on experience in backend development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
+
+🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, and Smartec Systems  
+🔹 **Focus Areas**: Clean Architecture, API Development, Database Optimization  
+🔹 **Current Learning**: Cloud-Native Development, Microservices Architecture  
+🔹 **Seeking**: Software Engineering opportunities and challenging projects  
 
 ---
 
-## **🚀 Skills**  
+## 🛠️ Technical Skills
 
-### 🛠 **Software Engineering & Development**  
-- **.NET Core & C#**: Entity Framework, LINQ, SOLID principles, and Clean Architecture.  
-- **Node.js & Express.js**: Scalable RESTful APIs, JWT authentication, Swagger documentation.  
-- **Design Patterns & Architecture**: MVC, Dependency Injection, Microservices, and Distributed Systems.  
+### **Backend Development**
+- **.NET Core & C#** - Entity Framework, LINQ, Clean Architecture
+- **Node.js & Express.js** - RESTful APIs, JWT Authentication, Middleware
+- **API Development** - RESTful services, GraphQL, Swagger documentation
 
-### 💻 **Programming Languages**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-### 🗄 **Databases & Indexing**  
-- **SQL & NoSQL**: MySQL, PostgreSQL, MongoDB.  
-- **High-Dimensional Indexing**: FAISS, KD-trees, IVF, LSH, HNSW.  
-- **Query Optimization & Transactions**: Indexing structures, transaction processing, ARIES recovery.  
+### **Databases & Systems**
+- **SQL Databases**: MySQL, PostgreSQL
+- **NoSQL**: MongoDB
+- **Indexing & Optimization**: FAISS, KD-trees, Query Optimization
+- **Cloud**: Huawei Cloud (Certified Developer)
 
-### 🔗 **APIs & Backend Development**  
-- **RESTful APIs**: Scalable API development with authentication, middleware, and error handling.  
-- **GraphQL**: Efficient querying and API schema design.  
-
-### 🛠 **DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-004088?style=flat-square&logo=unix&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
 
 ---
 
-## **📊 GitHub Stats**
+## 📚 Current Focus
+
+- 🔭 **Building**: Scalable backend systems and APIs
+- 🌱 **Learning**: Advanced cloud-native architectures and distributed systems
+- 👯 **Collaborating**: Open to backend development projects and internships
+- 🎯 **Goal**: Contributing to impactful software solutions
+
+---
+
+## 📈 Coding Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarouqDiaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
 ---
 
-## **📫 Contact Me**
-Feel free to **connect** on LinkedIn or **email me** at [farouqdiaaeldin@gmail.com](mailto:farouqdiaaeldin@gmail.com).  
-🔹 Always open to **new opportunities, projects, and collaborations!**  
+## 🏆 Achievements & Experience
+
+- 💼 **Software Engineer Intern** - IOTBlue, Link Data Center, Smartec Systems
+- 🎓 **Huawei Cloud Developer Training** - Cloud Native Associate Course (March 2025)
+- 📚 **Computer Engineering Student** - Cairo University
+- 💻 **Backend Development Focus** - Scalable systems and clean architecture
 
 ---
 
-### **🎯 Profile Views**
-![Profile Views](https://komarev.com/ghpvc/?username=FarouqDiaa&style=for-the-badge)
+## 🤝 Let's Connect!
+
+I'm always interested in discussing:
+- Backend architecture and design patterns
+- Database optimization techniques
+- Cloud-native development
+- Software engineering best practices
+- Collaborative projects and learning opportunities
+
+📧 **Email**: [farouqdiaaeldin@gmail.com](mailto:farouqdiaaeldin@gmail.com)  
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarouqDiaa&style=for-the-badge&color=blue" alt="Profile Views">
+</div>
