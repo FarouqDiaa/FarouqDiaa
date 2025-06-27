@@ -86,10 +86,10 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 
 ## 🏆 Achievements & Experience
 
-- 💼 **Software Engineer Intern** - IOTBlue, Link Data Center, Smartec Systems
-- 🎓 **Huawei Cloud Developer Training** - Cloud Native Associate Course (March 2025)
-- 📚 **Computer Engineering Student** - Cairo University
-- 💻 **Backend Development Focus** - Scalable systems and clean architecture
+-  **Software Engineer Intern** - IOTBlue, Link Data Center, Smartec Systems
+-  **Huawei Cloud Developer Training** - Cloud Native Associate Course (March 2025)
+-  **Computer Engineering Student** - Cairo University
+-  **Backend Development Focus** - Scalable systems and clean architecture
 
 ---
 
