@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
 <h2 align="center">Senior-2 Computer Engineer at Cairo University</h2>
+<h2 align="center">Ex-Intern at LDC, Smartec-Systems, GOE, Iotblue</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
@@ -12,9 +13,9 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
-I'm a passionate **Software Engineer** with hands-on experience in backend development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
+I'm a passionate **Software Engineer** with hands-on experience in full stack development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
 
 🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, GOE, and Smartec Systems  
 🔹 **Focus Areas**: Clean Architecture, API Development, Database Optimization  
@@ -23,12 +24,13 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### **Backend Development**
-- **.NET Core & C#** - Entity Framework, LINQ, Clean Architecture
-- **Node.js & Express.js** - RESTful APIs, JWT Authentication, Middleware
+### **Fullstack Development**
+- **.NET Core & C#, Node.js & Express.js** - Entity Framework, LINQ, Clean Architecture, RESTful APIs, JWT Authentication, Middleware
 - **API Development** - RESTful services, GraphQL, Swagger documentation
+- **Angular front-end development**
+- **Azure & AWS Deployment and services**
 
 ### **Programming Languages**
 <p>
@@ -50,7 +52,7 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 - **SQL Databases**: MySQL, PostgreSQL
 - **NoSQL**: MongoDB
 - **Indexing & Optimization**: FAISS, KD-trees, Query Optimization
-- **Cloud**: Huawei Cloud, AWS
+- **Cloud**: Huawei Cloud, AWS, Azure
 
 ### **Tools & Technologies**
 <p>
@@ -67,16 +69,16 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
--  **Building**: Scalable backend systems and APIs
+-  **Building**: Scalable software systems and APIs
 -  **Learning**: Advanced cloud-native architectures and distributed systems
--  **Collaborating**: Open to backend development projects and internships
+-  **Collaborating**: Open to software development projects and internships
 -  **Goal**: Contributing to impactful software solutions
 
 ---
 
-## 📈 Coding Activity
+## Coding Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
@@ -84,16 +86,16 @@ I'm a passionate **Software Engineer** with hands-on experience in backend devel
 
 ---
 
-## 🏆 Achievements & Experience
+## Experience
 
--  **Software Engineer Intern** - IOTBlue, Link Data Center, Smartec Systems
+-  **Software Engineering Intern** - IOTBlue, Link Data Center, Smartec Systems
 -  **Huawei Cloud Developer Training** - Cloud Native Associate Course (March 2025)
+-  **Introduction to AWS** - NTI (July 2025)
 -  **Computer Engineering Student** - Cairo University
--  **Backend Development Focus** - Scalable systems and clean architecture
-
+  
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always interested in discussing:
 - Backend architecture and design patterns
