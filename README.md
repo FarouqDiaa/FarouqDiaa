@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
 <h2 align="center">Senior-2 Computer Engineer at Cairo University</h2>
-<h2 align="center">Ex-Intern at LDC, Smartec-Systems, GOE, Iotblue</h2>
+<h4 align="center">Ex-Intern at LDC, Smartec-Systems, GOE, Iotblue</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
@@ -64,7 +64,7 @@ I'm a passionate **Software Engineer** with hands-on experience in full stack de
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
 ---
