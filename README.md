@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
 <h2 align="center">Senior-2 Computer Engineer at Cairo University</h2>
-<h3 align="center">Ex-Intern at LDC, Smartec-Systems, GOE, Iotblue</h3>
+<h3 align="center">Ex-Intern at LDC, Smartec-Systems, Iotblue</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
@@ -17,7 +17,7 @@
 
 I'm a passionate **Software Engineer** with hands-on experience in full stack development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
 
-🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, GOE, and Smartec Systems  
+🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, and Smartec Systems  
 🔹 **Focus Areas**: Clean Architecture, API Development, Database Optimization  
 🔹 **Current Learning**: Cloud-Native Development, Microservices Architecture  
 🔹 **Seeking**: Software Engineering opportunities and challenging projects  
