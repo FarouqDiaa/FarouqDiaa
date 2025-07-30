@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
 <h2 align="center">Senior-2 Computer Engineer at Cairo University</h2>
-<h3 align="center">Ex-Intern at LDC, Smartec-Systems, Iotblue</h3>
+<h3 align="center">Part-time SWE at Smartec-Systems</h3>
+<h4 align="center">Ex-Intern at LDC, Smartec-Systems, Iotblue</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
