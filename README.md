@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=FarouqDiaa&style=for-the-badge&color=blue" alt="Profile Views">
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&center=true&width=435&lines=Hi!;I+am+Farouq+Diaa+%F0%9F%91%8B;Undergraduate+Software+Engineer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi!;I+am+Farouq+Diaa+%F0%9F%91%8B;Undergraduate+SWE" alt="Typing SVG" /></a>
 </h1>
 
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
