@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Farouq Diaa 👋</h1>
-<h2 align="center">Senior-2 Computer Engineer at Cairo University</h2>
-<h3 align="center">Part-time SWE at Smartec-Systems</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarouqDiaa&style=for-the-badge&color=blue" alt="Profile Views">
+</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&center=true&width=435&lines=Hi!;I+am+Farouq+Diaa+%F0%9F%91%8B;Undergraduate+Software+Engineer" alt="Typing SVG" /></a>
+</h1>
 
-<p align="center">
   <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -17,8 +19,8 @@
 
 I'm a passionate **Software Engineer** with hands-on experience in full stack development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
 
-🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center, and Smartec Systems  
-🔹 **Focus Areas**: Clean Architecture, API Development, Database Optimization  
+🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center x2, and Smartec Systems  
+🔹 **Focus Areas**: Clean Architecture, Software Development, Database Optimization  
 🔹 **Current Learning**: Cloud-Native Development, Microservices Architecture  
 🔹 **Seeking**: Software Engineering opportunities and challenging projects  
 
@@ -69,30 +71,14 @@ I'm a passionate **Software Engineer** with hands-on experience in full stack de
 
 ---
 
-## Current Focus
-
--  **Building**: Scalable software systems and APIs
--  **Learning**: Advanced cloud-native architectures and distributed systems
--  **Collaborating**: Open to software development projects and internships
--  **Goal**: Contributing to impactful software solutions
-
----
-
 ## Coding Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdiaa&theme=dracula" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farouqdiaa&theme=dracula&hide_border=true&area=true&custom_title=My+Contribution+Graph" />
 </div>
 
----
-
-## Experience
-
--  **Software Engineering Intern** - IOTBlue, Link Data Center, Smartec Systems
--  **Huawei Cloud Developer Training** - Cloud Native Associate Course (March 2025)
--  **Introduction to AWS** - NTI (July 2025)
--  **Computer Engineering Student** - Cairo University
-  
 ---
 
 ## Let's Connect!
@@ -109,6 +95,4 @@ I'm always interested in discussing:
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarouqDiaa&style=for-the-badge&color=blue" alt="Profile Views">
-</div>
+
