@@ -5,7 +5,6 @@
 </h1>
 </div>
 
----
 ## About Me
 
 I'm a passionate **Software Engineer** with hands-on experience in full stack development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
