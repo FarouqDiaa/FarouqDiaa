@@ -9,10 +9,9 @@
 
 I'm a passionate **Software Engineer** with hands-on experience in full stack development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
 
-🔹 **Experience**: Software Engineer Intern at IOTBlue, Link Data Center x2, and Smartec Systems  
-🔹 **Focus Areas**: Clean Architecture, Software Development, Database Optimization  
-🔹 **Current Learning**: Cloud-Native Development, Microservices Architecture  
-🔹 **Seeking**: Software Engineering opportunities and challenging projects  
+ **Experience**: Part-time Software Engineer at Link Data Center and Smartec Systems, Ex-Intern at IOTBlue  
+ **Focus Areas**: System Architecture, Software Development, Database Optimization  
+ **Currently Learning**: Cloud-Native Development, Microservices Architecture  
 
 ---
 
@@ -21,7 +20,7 @@ I'm a passionate **Software Engineer** with hands-on experience in full stack de
 ### **Fullstack Development**
 - **.NET Core & C#, Node.js & Express.js** - Entity Framework, LINQ, Clean Architecture, RESTful APIs, JWT Authentication, Middleware
 - **API Development** - RESTful services, GraphQL, Swagger documentation
-- **Angular front-end development**
+- **Angular & React front-end development**
 - **Azure & AWS Deployment and services**
 
 ### **Programming Languages**
