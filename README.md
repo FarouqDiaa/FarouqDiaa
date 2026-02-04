@@ -59,7 +59,7 @@ I'm a passionate **Software Engineer** with hands-on experience in full stack de
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
----
+<!-- ---
 
 ## Coding Activity
 
@@ -67,7 +67,7 @@ I'm a passionate **Software Engineer** with hands-on experience in full stack de
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdiaa&theme=dracula&layout=compact&card_width=600" height="150" />
 </div>
-
+-->
 ---
 
 ## Let's Connect!
