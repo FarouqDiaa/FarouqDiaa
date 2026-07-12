@@ -41,5 +41,5 @@ For my graduation project I designed and built the entire backend for C-Outing, 
 
 ## Let's connect
 
-- LinkedIn: [linkedin.com/in/farouq-diaa-eldin](https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251)
+- LinkedIn: [linkedin.com/in/farouq-diaa-eldin-9b8063251](https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251)
 - Email: farouqdiaaeldin@gmail.com
