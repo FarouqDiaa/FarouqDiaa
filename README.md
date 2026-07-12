@@ -24,8 +24,8 @@ For my graduation project I designed and built the entire backend for C-Outing, 
 - **Also know:** C, C++, Java, Python, Go, VHDL
 
 ## GitHub Stats
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true&hide_current_streak=true" alt="GitHub Streak"/>
 </div>
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
