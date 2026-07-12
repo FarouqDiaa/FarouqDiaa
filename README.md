@@ -1,92 +1,45 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarouqDiaa&style=for-the-badge&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=FarouqDiaa&style=flat-square&color=blue" alt="Profile Views">
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi!;I+am+Farouq+Diaa+%F0%9F%91%8B;Undergraduate+SWE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Hi!+I'm+Farouq+%F0%9F%91%8B;Software+Engineer;Cairo+University+Graduate+%E2%80%9926" alt="Typing SVG" />
 </h1>
-</div>
 
-## About Me
+Software Engineer, recently graduated in Computer Engineering from Cairo University.
 
-I'm a passionate **Software Engineer** with hands-on experience in full stack development and scalable system design. Currently pursuing my Computer Engineering degree at Cairo University while gaining practical experience through internships and cloud-native development.
+I work on backend systems, cloud infrastructure, and full-stack apps. Currently a software engineer at Link Datacenter (LDC) and Smartec-Systems, previously interned at Iotblue (Spain).
 
- **Experience**: Part-time Software Engineer at Link Data Center and Smartec Systems, Ex-Intern at IOTBlue  
- **Focus Areas**: System Architecture, Software Development, Database Optimization  
- **Currently Learning**: Cloud-Native Development, Microservices Architecture  
+## C-Outing
 
----
+For my graduation project I designed and built the entire backend for [C-Outing](https://cairo-outing.com/), a venue discovery and recommendation platform for Cairo covering 7,000+ venues. That included the system architecture, a multi-source search engine (database search, live Google Maps scraping, and results from a Neo4j-backed recommendation service fused into one ranked list), and the infrastructure it runs on. Graduated with an A- on the project.
 
-## Technical Skills
+## What I work with
 
-### **Fullstack Development**
-- **.NET Core & C#, Node.js & Express.js** - Entity Framework, LINQ, Clean Architecture, RESTful APIs, JWT Authentication, Middleware
-- **API Development** - RESTful services, GraphQL, Swagger documentation
-- **Angular & React front-end development**
-- **Azure & AWS Deployment and services**
+- **Backend:** .NET Core, C#, Node.js, Entity Framework, Clean Architecture, REST APIs, GraphQL, JWT auth
+- **Frontend:** React, Angular
+- **Cloud & Infra:** AWS (Lambda, DynamoDB, Cognito, Amplify, Bedrock, SQS), Azure, Terraform, Docker, Kubernetes
+- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j
+- **Search:** Lucene, FAISS (IVF+PQ, HNSW)
+- **Also know:** C, C++, Java, Python, Go, VHDL
 
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly">
-  <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logo=xilinx&logoColor=white" alt="VHDL">
-</p>
-
-### **Databases & Systems**
-- **SQL Databases**: MySQL, PostgreSQL
-- **NoSQL**: MongoDB
-- **Indexing & Optimization**: FAISS, KD-trees, Query Optimization
-- **Cloud**: Huawei Cloud, AWS, Azure
-
-### **Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-</p>
-
-<!-- ---
-
-## Coding Activity
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqDiaa&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdiaa&theme=dracula&layout=compact&card_width=600" height="150" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarouqDiaa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
--->
----
-
-## Let's Connect!
-
-I'm always interested in discussing:
-- Backend architecture and design patterns
-- Database optimization techniques
-- Cloud-native development
-- Software engineering best practices
-- Collaborative projects and learning opportunities
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:farouqdiaaeldin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FarouqDiaa&theme=flat&no-frame=true&row=1&column=6" alt="Trophies"/>
+</div>
 
 
+## Let's connect
+
+- LinkedIn: [linkedin.com/in/farouq-diaa-eldin](https://www.linkedin.com/in/farouq-diaa-eldin-9b8063251)
+- Email: farouqdiaaeldin@gmail.com
