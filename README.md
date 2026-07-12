@@ -26,17 +26,13 @@ For my graduation project I designed and built the entire backend for C-Outing, 
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarouqDiaa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=FarouqDiaa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarouqDiaa&theme=flat&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
 
 
 ## Let's connect
