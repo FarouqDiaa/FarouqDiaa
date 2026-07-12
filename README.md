@@ -25,10 +25,16 @@ For my graduation project I designed and built the entire backend for C-Outing, 
 
 ## GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true&hide_current_streak=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=dark&hide_border=true&hide_current_streak=true" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true&hide_current_streak=true" alt="GitHub Streak"/>
+  </picture>
 </div>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=dracula&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarouqDiaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  </picture>
 </div>
 
 
