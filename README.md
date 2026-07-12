@@ -8,15 +8,15 @@
 
 Software Engineer, recently graduated in Computer Engineering from Cairo University.
 
-I work on backend systems, cloud infrastructure, and full-stack apps. Currently a software engineer at Link Datacenter (LDC) and Smartec-Systems, previously interned at Iotblue (Spain).
+I work on backend systems, cloud infrastructure, and full-stack apps. Currently a software engineer at Link Datacenter (LDC) and previously a software engineer at Smartec-Systems and interned at Iotblue (Spain).
 
 ## C-Outing
 
-For my graduation project I designed and built the entire backend for [C-Outing](https://cairo-outing.com/), a venue discovery and recommendation platform for Cairo covering 7,000+ venues. That included the system architecture, a multi-source search engine (database search, live Google Maps scraping, and results from a Neo4j-backed recommendation service fused into one ranked list), and the infrastructure it runs on. Graduated with an A- on the project.
+For my graduation project I designed and built the entire backend for C-Outing, a venue discovery and recommendation platform for Cairo covering 7,000+ venues. That included the system architecture, a multi-source search engine (database search, live Google Maps scraping, and results from a Neo4j-backed recommendation service fused into one ranked list), and the infrastructure it runs on.
 
 ## What I work with
 
-- **Backend:** .NET Core, C#, Node.js, Entity Framework, Clean Architecture, REST APIs, GraphQL, JWT auth
+- **Backend:** .NET Core, C#, GoLang, Node.js, Entity Framework, Clean Architecture, REST APIs, JWT & JWE auth
 - **Frontend:** React, Angular
 - **Cloud & Infra:** AWS (Lambda, DynamoDB, Cognito, Amplify, Bedrock, SQS), Azure, Terraform, Docker, Kubernetes
 - **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j
