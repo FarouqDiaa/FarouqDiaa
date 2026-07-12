@@ -25,8 +25,6 @@ For my graduation project I designed and built the entire backend for C-Outing, 
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=FarouqDiaa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqDiaa&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
 <div align="center">
