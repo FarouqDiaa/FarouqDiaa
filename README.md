@@ -22,6 +22,7 @@ For my graduation project I designed and built the entire backend for C-Outing, 
 - **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j
 - **Search:** Lucene, FAISS (IVF+PQ, HNSW)
 - **Also know:** C, C++, Java, Python, Go, VHDL
+- **Certifications:** AWS Cloud Practitioner, Huawei Cloud Certified Developer
 
 ## GitHub Stats
 <div align="center">
